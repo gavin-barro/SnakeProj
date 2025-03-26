@@ -29,7 +29,7 @@ Eat food to grow and increase your score.
 
 Avoid hitting walls and yourself!
 
-File Structure
+## File Structure
 main.py - Runs the game.
 
 snake.py - Controls snake movement.
@@ -38,14 +38,5 @@ food.py - Handles food spawning.
 
 scoreboard.py - Displays and updates the score.
 
-Screenshots
-(You can add images or GIFs of gameplay here)
-
-License
+## License
 This project is open-source. Feel free to modify and improve it!
-
-pgsql
-Copy
-Edit
-
-Would you like to add anything else, such as contributors or game enhancements? 🚀
