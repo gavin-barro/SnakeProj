@@ -1,6 +1,6 @@
 # Snake Game 🐍
 
-A simple Snake game built using Python's `turtle` module.
+A simple Snake game built using Python's turtle module.
 
 ## Features
 - Classic snake movement (Up, Down, Left, Right).
