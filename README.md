@@ -35,5 +35,5 @@ food.py - Handles food spawning.
 
 scoreboard.py - Displays and updates the score.
 
-## License
-This project is open-source. Feel free to modify and improve it!
+## Author
+Gavin Barro
