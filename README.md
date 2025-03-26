@@ -19,6 +19,7 @@ Install dependencies (if any, but turtle is included with Python).
 ## How to Play
 
 python main.py
+
 Use arrow keys to move the snake.
 
 Eat food to grow and increase your score.
