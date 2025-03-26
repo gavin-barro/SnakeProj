@@ -16,12 +16,8 @@ A simple Snake game built using Python's turtle module.
    cd snake-game
 Install dependencies (if any, but turtle is included with Python).
 
-How to Play
-Run the game:
+## How to Play
 
-sh
-Copy
-Edit
 python main.py
 Use arrow keys to move the snake.
 
